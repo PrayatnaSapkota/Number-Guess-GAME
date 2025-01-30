@@ -1,4 +1,5 @@
 // You can copy no worries!!!
+// I know its just a SHIT! hehe
 
 #include <stdio.h>
 #include <stdlib.h>
